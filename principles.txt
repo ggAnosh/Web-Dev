@@ -1,0 +1,21 @@
+# Responsive design principles:
+ ->   Responsive design a technique to make a webpage adjust it's layout and visual style to any possible screen size, 
+      Desktop, Laptops, Mobile Phones, 
+      Best practices, not a seperate technology, JUST CSS---
+
+
+     INGREDIENTS: 
+      
+       Fluid Layouts, Responsive Units, Flexible Images, Media Queries 
+
+
+       Desktop-First Development vs Mobile-First Development
+
+        - Start Writing CSS for Desktop: Large Screen 
+        - Then, Media Queries shrink design to smaller screens, 
+
+
+
+        - Start writing CSS for mobile devices: small screen, 
+        - The, Media Queries expand design to a large screen, 
+        - Forces us to reduce website and apps to the absolute essentials, 

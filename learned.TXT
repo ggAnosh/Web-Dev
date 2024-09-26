@@ -1,0 +1,45 @@
+
+### Sections:
+
+ - Navigation, 
+ - Hero, 
+ - Features, 
+ - Featured in,
+ - How it works, 
+ - Diets
+ - Meals, 
+ - CTA,
+ - Pricing, 
+ - Gallery, 
+ - Testimonials, 
+ - Featured in, 
+ - Footer, 
+
+# First Ideas and Sketch: 
+  -> Logo + Navigation, 
+  -> Hero Section,
+  -> Featured in, 
+  -> How it works, 
+  -> Meals (and list of diets)
+  -> Testimonials + Gallery
+  -> Pricing + features, 
+  -> CTA, 
+  -> Footer
+
+
+
+// Images without any copyright: legit images
+  Unsplash.com, UI faces {uifaces.co}
+
+
+Rem and max-width
+
+Max-width: If the width is less than max-width then, it becomes acc to the parent container, 
+
+
+rem: root element font-size {HTML element }
+
+ 1rem = 16px  By default  -> if you set max-width : 50rem; then max-width: 800px; 
+
+ use 10px by default for HTML but to have the user good interaction  do it in percentage like font-size: 62.5%; to respect user's demands. 
+ 

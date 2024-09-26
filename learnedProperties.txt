@@ -1,0 +1,11 @@
+
+# Box Shadow:
+
+->  Used for giving shadows to a container:      
+        
+        5 values is to be given
+            box-shadow: horizontal-offset, vertical-offset, blur, spread, color ;
+
+              horizontal-offset: from x-axis
+              vertical-offset: from y-axis
+              spread: how much to spread from the container
